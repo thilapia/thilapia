@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## About
 
 I like software where the abstractions eventually run out.
@@ -31,8 +29,6 @@ interests     blockchains · FinML · machine learning
 
 signature     ><((('>
 ```
-
----
 
 ## What I work on
 
@@ -59,8 +55,6 @@ I am interested in `wgpu`, GPU architecture, rendering systems, real-time simula
 ### Machine learning
 
 My ML interests lean toward practical systems and research tooling: financial ML, experimentation infrastructure, numerical computing, data pipelines, and integrating models into larger software systems.
-
----
 
 ## Stack
 
@@ -107,10 +101,6 @@ const CURRENT: Interests = Interests {
 };
 ```
 
-The general rule is simple: if a problem involves protocols, runtimes, hardware, unusual memory layouts, distributed systems, cryptography, graphics, or asking *"what actually happens underneath?"*, I will probably find it interesting.
-
----
-
 ## GitHub
 
 <div align="center">
@@ -126,8 +116,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilapia&lay
 />
 
 </div>
-
----
 
 <div align="center">
 
