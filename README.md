@@ -73,8 +73,6 @@ My ML interests lean toward practical systems and research tooling: financial ML
 
 </div>
 
----
-
 ## Current interests
 
 ```rust
@@ -105,23 +103,6 @@ const CURRENT: Interests = Interests {
 
 <div align="center">
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=thilapia&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilapia&layout=compact&hide_border=true&theme=transparent"
-/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thilapia&custom_title=%3E%20stats&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=thilapia&custom_title=%3E%20stats&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
 
 </div>
-
-<div align="center">
-
-### `><((('>`
-
-**Build things. Break abstractions. Read the source.**
-
-</div>
-
